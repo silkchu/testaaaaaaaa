@@ -1872,7 +1872,7 @@
     margin-right: 450px;
   }
   [class*=layers] > [class*=layer] > [class*=container]::after {
-    content: "Stay comfy";
+    content: "silkchu";
     position: fixed;
     top: 220px;
     bottom: 85px;
